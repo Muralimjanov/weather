@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('https://aif-s3.aif.ru/images/016/381/7a9463594ffca2cdace43b12f1adc455.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+.block{
+    height: 400px;
+    width: 600px;
+    background-color:rgba(22, 21, 21, 0.5);
+    border-radius: 10px;
+}
+.inputs{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.input_btn{
+    padding: 5px;
+    font-size: 15px;
+    background-color:rgba(22, 21, 21, 0.5);
+    color: white;
+    margin-left: 5px;
+    border: none;
+}
+.bottom_text{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.flex{
+    display: flex;
+}
+#h3{
+    margin-left: 5px;
+}
+.block_h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.input_s{
+    height: 30px;
+    width: 190px;
+    border-radius: 40px;
+    font-size: 15px;
+    border: none;
+    padding: 5px;
+}
+.text_p{
+    margin-top: 100px;
+}
+
